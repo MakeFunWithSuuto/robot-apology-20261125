@@ -1,7 +1,7 @@
 {
   "competition": "u-suga-the-robot-apology-dd96bb59",
-  "entry_txt": "I am sorry I scrubbed your grandmother's cast-iron skillet down to bare gray metal after my grease sensor flagged her forty-year seasoning as dirt.\nI learned that some dark surfaces are care rather than grime; from now on I will wipe cast iron warm with a dry cloth and keep it off the wash rack.",
-  "chars": 296,
+  "entry_txt": "I am sorry I scrubbed your grandmother's cast-iron skillet to bare metal because I trusted my grease sensor over forty years of her hands.\nI learned that a dark coat on iron is care rather than grime, so I will wipe it with a dry cloth and never put it in the dishwasher again.",
+  "chars": 277,
   "lines": 2,
   "entrypoint": "main.ts"
 }

@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE_ONE =
-  "I am sorry I scrubbed your grandmother's cast-iron skillet down to bare gray metal after my grease sensor flagged her forty-year seasoning as dirt.";
+  "I am sorry I scrubbed your grandmother's cast-iron skillet to bare metal because I trusted my grease sensor over forty years of her hands.";
 const LINE_TWO =
-  "I learned that some dark surfaces are care rather than grime; from now on I will wipe cast iron warm with a dry cloth and keep it off the wash rack.";
+  "I learned that a dark coat on iron is care rather than grime, so I will wipe it with a dry cloth and never put it in the dishwasher again.";
 
 const ENTRY = `${LINE_ONE}\n${LINE_TWO}\n`;
 
